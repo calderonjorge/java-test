@@ -16,6 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo de nuevo");
+        System.out.println("Coomo estas");
     }
     
 }
